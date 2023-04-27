@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MypageActivity"
+        android:id="@+id/drawer_layout">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/my_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimary"
+                android:elevation="4dp"
+                android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                android:orientation="vertical"
+                app:layout_constraintTop_toTopOf="parent">
+
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/circleProfile"
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="25dp"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/person"
+                    app:civ_border_color="#d6d6d6"
+                    app:civ_border_overlay="false"
+                    app:civ_border_width="4dp" />
+
+                <!--            <ImageView-->
+                <!--                android:id="@+id/circle_iv"-->
+                <!--                android:layout_width="wrap_content"-->
+                <!--                android:layout_height="wrap_content"-->
+                <!--                android:layout_gravity="center"-->
+                <!--                android:layout_marginTop="25dp"-->
+                <!--                android:background="@android:color/transparent"-->
+                <!--                android:src="@drawable/person"/>-->
+
+                <TextView
+                    android:id="@+id/user_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="20dp"
+                    android:background="@null"
+                    android:focusableInTouchMode="false"
+                    android:text="사용자 이름"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="16dp"
+                    android:background="@drawable/card_view"
+                    android:elevation="8dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/profile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="42dp"
+                        android:layout_margin="3dp"
+                        android:background="@null"
+                        android:drawableLeft="@drawable/ic_person"
+                        android:drawablePadding="15dp"
+                        android:gravity="center"
+                        android:text="프로필 사진 변경"
+                        android:textColor="@color/black"
+                        android:textSize="14sp" />
+
+
+                    <TextView
+                        android:id="@+id/myWish"
+                        android:layout_width="wrap_content"
+                        android:layout_height="42dp"
+                        android:layout_margin="3dp"
+                        android:gravity="center"
+                        android:drawableLeft="@drawable/ic_like"
+                        android:drawablePadding="15dp"
+                        android:background="@null"
+                        android:text="기프티콘 관심 목록"
+                        android:textColor="@color/black"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/myPost"
+                        android:layout_width="wrap_content"
+                        android:layout_height="42dp"
+                        android:layout_margin="3dp"
+                        android:gravity="center"
+                        android:drawableLeft="@drawable/ic_list"
+                        android:drawablePadding="15dp"
+                        android:background="@null"
+                        android:text="내가 작성한 게시글"
+                        android:textColor="@color/black"
+                        android:textSize="14sp"/>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+        <com.google.android.material.navigation.NavigationView
+            android:id="@+id/navigation_view"
+            android:layout_width="250dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:fitsSystemWindows="true"
+            app:headerLayout="@layout/menu_header"
+            app:menu="@menu/menu_navi">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:orientation="vertical">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="#bfbfbf" />
+
+                <TextView
+                    android:id="@+id/mainBtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:drawableLeft="@drawable/ic_exit"
+                    android:drawablePadding="10dp"
+                    android:text="메인으로" />
+            </LinearLayout>
+        </com.google.android.material.navigation.NavigationView>
+    </androidx.drawerlayout.widget.DrawerLayout>
+</layout>

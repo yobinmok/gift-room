@@ -1,0 +1,37 @@
+buildscript {
+    ext {
+        kotlin_version = '1.8.20'
+    }
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://devrepo.kakao.com/nexus/content/groups/public/' }
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:7.0.4"
+        classpath 'com.google.gms:google-services:4.3.15'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+plugins {
+    id 'org.jetbrains.kotlin.android' version '1.8.20' apply false
+}
+subprojects{
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://devrepo.kakao.com/nexus/content/groups/public/'}
+
+        //현재위치 위험권한 처리
+        maven { url 'https://jitpack.io' }
+
+    }
+
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/drawable/border_input.xml" value="0.12962962962962962" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/drawable/border_join.xml" value="0.12962962962962962" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/drawable/border_layout.xml" value="0.12962962962962962" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/drawable/border_submit.xml" value="0.12962962962962962" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/drawable/button_solid.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/drawable/ic_camera.xml" value="0.1638888888888889" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/drawable/ic_more.xml" value="0.21666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/drawable/ic_more_ver2.xml" value="0.21666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_board.xml" value="0.19482421875" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_board_detail.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_board_detail_expandable.xml" value="0.314453125" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_board_modify.xml" value="0.2276657060518732" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_board_register.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_chat.xml" value="0.22760416666666666" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_detail.xml" value="0.359375" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_find_pwd.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_gift_add.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_image.xml" value="0.33611111111111114" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_join.xml" value="0.3369140625" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_login.xml" value="0.3623417721518987" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_main.xml" value="0.3369140625" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_main3.xml" value="0.3369140625" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_mypage.xml" value="0.25529411764705884" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_mypost.xml" value="0.33611111111111114" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_mywish.xml" value="0.359375" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_setting.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/activity_start.xml" value="0.359375" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/boardlist_item.xml" value="0.359375" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/chatlist_item.xml" value="0.20052083333333334" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/comment_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/dialog_mycomment.xml" value="0.3369140625" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/dialog_period.xml" value="0.3369140625" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/layout/list_item.xml" value="0.6" />
+        <entry key="..\:/AndroidStudioProjects/2022-1 Capstone_GiftRoom/app/src/main/res/menu/menu_navi.xml" value="0.359375" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/border.xml" value="0.12606837606837606" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/border_bottom.xml" value="0.30811965811965814" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/button.xml" value="0.2140625" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/button_board.xml" value="0.15092592592592594" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/button_register.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/button_solid.xml" value="0.30811965811965814" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/button_spinner.xml" value="0.25277777777777777" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/camera.xml" value="0.31296296296296294" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/card_view.xml" value="0.2140625" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/edit_login.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_add.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_camera.xml" value="0.2140625" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_camera_ver2.xml" value="0.31296296296296294" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_giftExample_background.xml" value="0.287962962962963" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_id.xml" value="0.2962962962962963" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_location.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_map.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_more.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_person.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_push_alarm.xml" value="0.37864583333333335" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_push_detail.xml" value="0.37864583333333335" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_push_term.xml" value="0.37864583333333335" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_pwd.xml" value="0.3042194092827004" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/ic_pwd2.xml" value="0.3042194092827004" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/join_drawable.xml" value="0.3042194092827004" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/join_id.xml" value="0.3042194092827004" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/list_view.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/login_button.xml" value="0.23796296296296296" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/solid_button.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/sort.xml" value="0.30811965811965814" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/drawable/sort_2.xml" value="0.30811965811965814" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_board.xml" value="0.1949685534591195" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_board_register.xml" value="0.14369256474519632" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_gift_add.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_gift_test.xml" value="0.17274569402228976" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_image.xml" value="0.2948717948717949" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_join.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_main2.xml" value="0.1703125" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_main3.xml" value="0.1947463768115942" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_mypage.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_setting.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/activity_start.xml" value="0.2680851063829787" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/boardlist_item.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/list_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/menu_drawer.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/menu_header.xml" value="0.1175925925925926" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/layout/spinner_text.xml" value="0.14369256474519632" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/menu/add_gift.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/menu/drawerlayout.xml" value="0.1685185185185185" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/menu/menu_add.xml" value="0.4466666666666667" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/menu/menu_draweritem.xml" value="0.21944444444444444" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/menu/menu_edit.xml" value="0.2948717948717949" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/menu/menu_register.xml" value="0.359375" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/mipmap-anydpi-v26/ic_giftExample.xml" value="0.21666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/mipmap-anydpi-v26/ic_giftExample_round.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_giftcon/app/src/main/res/xml/network_security_config.xml" value="0.130451415455241" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/app_icon_foreground.xml" value="0.240625" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/background_gradient.xml" value="0.35572916666666665" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/border.xml" value="0.1925925925925926" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/border_bottom.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/border_input.xml" value="0.31212121212121213" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/border_join.xml" value="0.3162280701754386" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/border_layout.xml" value="0.1925925925925926" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/border_submit.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/button_board.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/button_edit.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/button_login.xml" value="0.21666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/button_pic.xml" value="0.35" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/button_solid.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/card_view.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/dialog_round.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_add.xml" value="0.1706140350877193" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_add_big.xml" value="0.1706140350877193" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_add_ver2.xml" value="0.36974358974358973" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_check.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_circle.xml" value="0.19736842105263158" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_close.xml" value="0.2759259259259259" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_comment.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_comment_ver2.xml" value="0.3162280701754386" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_delete.xml" value="0.2759259259259259" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_delete_account.xml" value="0.2759259259259259" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_edit.xml" value="0.2759259259259259" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_edit_ver2.xml" value="0.19736842105263158" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_exit.xml" value="0.19736842105263158" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_id.xml" value="0.2759259259259259" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_like.xml" value="0.3162280701754386" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_like_filled.xml" value="0.3162280701754386" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_location.xml" value="0.2759259259259259" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_lock.xml" value="0.3162280701754386" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_map.xml" value="0.2759259259259259" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_menu.xml" value="0.2759259259259259" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_more.xml" value="0.2759259259259259" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_more_ver2.xml" value="0.19736842105263158" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_person.xml" value="0.3162280701754386" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_push_alarm.xml" value="0.19736842105263158" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_push_detail.xml" value="0.19736842105263158" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_push_term.xml" value="0.19736842105263158" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_pwd.xml" value="0.3162280701754386" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_pwd2.xml" value="0.3162280701754386" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_setting.xml" value="0.19736842105263158" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_sort.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_submit.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/ic_submit_2.xml" value="0.37552083333333336" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/drawable/join_drawable.xml" value="0.3162280701754386" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_board.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_board_detail.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_board_detail_expandable.xml" value="0.3026315789473684" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_board_register.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_chat.xml" value="0.3026315789473684" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_chat_list.xml" value="0.3026315789473684" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_detail.xml" value="0.1450980392156863" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_gift_add.xml" value="0.28450704225352114" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_join.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_login.xml" value="0.3473731884057971" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_mypage.xml" value="0.43478260869565216" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_mypost.xml" value="0.17894736842105263" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_setting.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_start.xml" value="0.3473731884057971" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/activity_wish.xml" value="0.13815789473684212" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/boardlist_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/chatlist_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/comment_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/dialog_comment_delete.xml" value="0.19298245614035087" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/dialog_delete.xml" value="0.359375" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/dialog_logout.xml" value="0.3026315789473684" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/dialog_mycomment.xml" value="0.3026315789473684" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/dialog_name.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/dialog_period.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/dialog_pwd.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/list_item.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/menu_drawer.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/menu_header.xml" value="0.1765625" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/recycler_item.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/layout/spinner_text.xml" value="0.359375" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/menu/check.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/menu/drawerlayout.xml" value="0.3026315789473684" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/menu/menu_add.xml" value="0.1765625" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/menu/menu_edit.xml" value="0.34375" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/menu/menu_navi.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/menu/menu_register.xml" value="0.3074074074074074" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/mipmap-anydpi-v26/app_icon.xml" value="0.35333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.35333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/capstone_gifticon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11666666666666667" />
+        <entry key="..\:/capstone_giftcon_ver11/app/src/main/res/layout/activity_login.xml" value="0.14358974358974358" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

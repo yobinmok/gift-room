@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="giftList_width">160dp</dimen>
+    <dimen name="giftList_height">180dp</dimen>
+    <dimen name="giftList_inner_width">154dp</dimen>
+    <dimen name="giftList_inner_height">174dp</dimen>
+
+    <dimen name="boardList_height">160dp</dimen>
+    <dimen name="boardList_inner_width">340dp</dimen>
+    <dimen name="boardList_inner_height">150dp</dimen>
+</resources>
