@@ -1,4 +1,4 @@
-# GiftRoom:gift:
+# GiftRoom :gift:
 **GiftRoom**은 **기프티콘 관리** 어플리케이션입니다.
 
 ## 1. 개발 동기
